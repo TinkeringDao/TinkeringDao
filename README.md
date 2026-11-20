@@ -1,15 +1,14 @@
 # TinkeringDao
 
-Systems engineering across embedded Linux, Sub-GHz LoRa mesh firmware, Android/macOS hardware-protocol interoperability, and on-device speech/ML inference. Most projects here come from fixing practical gaps in hardware I use daily, from running 64-bit Linux daemons and NEON DSP kernels on constrained SoCs to writing clean-room host drivers and offline mobile apps without cloud dependencies. Code is published as independent, non-commercial open source.
+Systems engineering across Sub-GHz LoRa mesh firmware, Android/macOS hardware-protocol interoperability, robotics, and on-device speech/ML inference. Most projects here come from fixing practical gaps in hardware I use daily, from bare-metal/RTOS power management on constrained radios to clean-room macOS drivers and offline mobile apps without cloud dependencies. Code is published as independent, non-commercial open source.
 
 ## Public Repositories
 
-### On-Device Speech, Robotics & Embedded Linux
+### On-Device Speech & Robotics
 
 | Repository | Focus | Stack |
 | :--- | :--- | :--- |
 | [`satori`](https://github.com/TinkeringDao/satori) | Offline Android voice recorder, streaming transcriber, Malayalam-to-English `IndicTrans2` reader, and local `llama.cpp` note/to-do synthesizer for standard displays and the Motorola Razr cover screen | Kotlin, C++, `sherpa-onnx`, `llama.cpp` |
-| [`techo5`](https://github.com/TinkeringDao/techo5) | 64-bit (`arm64`) MediaTek `MT8163` (`cronos`) fork of `HuskerMinion/techo5` for Echo Show 5 Gen 2: LP64 camera ISP/ION ioctls, ARMv8 NEON `int8` wake-word SIMD, stereo 2-mic TDOA, thermal guard, and 60 Hz local companion mode | Go, ARM64 ASM, C, Alpine Linux |
 | [`reachy-companion`](https://github.com/TinkeringDao/reachy-companion) | Offline simulation scaffold, SQLite fault-latch recovery controller, and commissioning checklist for Reachy Mini Wireless | Python, SQLite |
 
 ### macOS Hardware Interoperability
