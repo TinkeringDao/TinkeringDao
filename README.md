@@ -12,11 +12,10 @@ Systems engineering across embedded Linux, Sub-GHz LoRa mesh firmware, Android/m
 | [`techo5`](https://github.com/TinkeringDao/techo5) | 64-bit (`arm64`) MediaTek `MT8163` (`cronos`) fork of `HuskerMinion/techo5` for Echo Show 5 Gen 2: LP64 camera ISP/ION ioctls, ARMv8 NEON `int8` wake-word SIMD, stereo 2-mic TDOA, thermal guard, and 60 Hz local companion mode | Go, ARM64 ASM, C, Alpine Linux |
 | [`reachy-companion`](https://github.com/TinkeringDao/reachy-companion) | Offline simulation scaffold, SQLite fault-latch recovery controller, and commissioning checklist for Reachy Mini Wireless | Python, SQLite |
 
-### Android & macOS Hardware Interoperability
+### macOS Hardware Interoperability
 
 | Repository | Focus | Stack |
 | :--- | :--- | :--- |
-| [`ReDrive`](https://github.com/TinkeringDao/ReDrive) | Clean-room Android companion and RTP/H.264 cockpit renderer for the Royal Enfield Bear 650 Tripper Dash, preserving cellular data while bound to the dash's local Wi-Fi AP | Kotlin, Jetpack Compose, `MediaCodec`, OSMDroid |
 | [`stretch-the-mac`](https://github.com/TinkeringDao/stretch-the-mac) | macOS `IODPDevice` DisplayPort AUX (`DPCD 0x4B0..0x4FF`) ViewXpand `3840x1080` split controller and bezel-aware dual-monitor window snapper for the Lenovo ThinkPad TB3 Dock Gen 2 (`Synaptics VMM5322`) | C, `IOKit`, Swift, Python |
 | [`Woke-Bose`](https://github.com/TinkeringDao/Woke-Bose) | macOS Bluetooth RFCOMM (`BMAP`) NVRAM/DSP calibration client, CoreAudio `HFP SCO` input guard, and B&K 5128 / Harman PEQ presets for Bose QuietComfort Ultra Headphones (`QCC5181`) | Objective-C, `IOBluetooth`, `CoreAudio`, Python |
 
