@@ -8,7 +8,7 @@ This document establishes the uniform 8-pillar legal, intellectual property, reg
 
 All repositories published under `TinkeringDao` are **independent, non-commercial, community-developed free and open-source projects** created solely to enable hardware interoperability, open-source firmware customization, and diagnostic telemetry on lawfully acquired consumer hardware.
 
-- **No Affiliation or Endorsement:** `TinkeringDao` projects are **not affiliated with, authorized by, sponsored by, or endorsed by** any referenced third-party hardware or semiconductor manufacturer (including, without limitation, Bose Corporation, Qualcomm Incorporated, Analog Devices, Inc., Espressif Systems, Semtech Corporation, LilyGo, Heltec Automation, or Apple Inc.).
+- **No Affiliation or Endorsement:** `TinkeringDao` projects are **not affiliated with, authorized by, sponsored by, or endorsed by** any referenced third-party hardware or semiconductor manufacturer (including, without limitation, Bose Corporation, Qualcomm Incorporated, Analog Devices, Inc., Seeed Technology Co., Ltd., Nordic Semiconductor ASA, Lenovo Group Limited, Synaptics Incorporated, Pollen Robotics, Hugging Face, Inc., TP-Link, Amazon.com, Inc., MediaTek Inc., Espressif Systems, Semtech Corporation, LilyGo, Heltec Automation, or Apple Inc.).
 - **Indication of Intended Purpose & Nominative Fair Use:**
   - Pursuant to **Article 14(1)(c) of Regulation (EU) 2017/1001 (EU Trade Mark Regulation — EUTMR)**, settled Court of Justice of the European Union jurisprudence (*Case C-228/03 — Gillette v. LA-Laboratories*; *Case C-63/97 — BMW v. Deenik*), and **US Nominative Fair Use (`15 U.S.C. §§ 1115(b)(4), 1125`**, *New Kids on the Block v. News America Publishing, Inc.*, 971 F.2d 302 (9th Cir. 1992)), third-party product names, chip designations, and trademarks are referenced strictly as a necessary indication of intended purpose, nominative fair use, and target hardware compatibility of the software.
   - Zero corporate logos, proprietary icons, vendor mobile application screenshots, or proprietary trade dress are distributed in `TinkeringDao` repositories.
@@ -52,7 +52,7 @@ Under **Directive 2009/24/EC (Articles 1(2), 5(3), 6, 8)** and **17 U.S.C. §§ 
 
 ## 4. Zero Proprietary Code, Verbatim Firmware Bytes, or Binary Distribution
 
-- **100% Original or Properly Licensed Open-Source Code (`SPDX-License-Identifier: MIT`):** All source code in `TinkeringDao` repositories is either original clean-room code (`SPDX-License-Identifier: MIT`) or properly attributed open-source code distributed in full compliance with its respective open-source license (`MIT`, `LGPL-2.1`, etc.).
+- **100% Original or Properly Licensed Open-Source Code (`SPDX-License-Identifier: MIT`):** All source code in `TinkeringDao` repositories is either original clean-room code (`SPDX-License-Identifier: MIT`, or repository-declared `Apache-2.0`) or properly attributed open-source code distributed in full compliance with its respective open-source license (`MIT`, `Apache-2.0`, `GPL-3.0-or-later`, `LGPL-2.1`, etc.).
 - **No OEM Binaries, Hex Slices, or Assets:** `TinkeringDao` repositories do **not** host, redistribute, or link to proprietary OEM firmware images (`.bin`, `.dfu`), commercial mobile application packages (`.ipa`, `.apk`), decompiled vendor source code, or verbatim proprietary firmware hex slices (`<REDACTED_OEM_BYTES>`).
 
 ---
