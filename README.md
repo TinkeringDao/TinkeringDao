@@ -42,4 +42,15 @@ TinkeringDao Labs builds local-first software, firmware, and electronics where i
 | [`wadamesh`](https://github.com/TinkeringDao/wadamesh) | Touch-UI MeshCore LoRa firmware fork (`nRF52840` / `ESP32-S3`, `LR1110` / `SX1262`), including upstream Elecrow ThinkNode M9 contribution [`ALLFATHER-BV/wadamesh#826`](https://github.com/ALLFATHER-BV/wadamesh/pull/826) merged in `beta_103` | C++, PlatformIO, nRF52840 / ESP32-S3, LR1110 / SX1262 |
 | [`meshcomod`](https://github.com/TinkeringDao/meshcomod) | MeshCore repeater and companion firmware builds (`ESP32` / `nRF52`) | C++, PlatformIO, LoRa |
 
+## Hardware, Manufacturing & Ecosystem Partners
+
+Our open-source hardware prototypes, PCB layouts, and edge-AI integrations are supported by:
+
+- **[AISLER](https://aisler.net)** — European ENIG PCB manufacturing and laser-cut stainless-steel SMD stencils.
+- **[PCBWay](https://www.pcbway.com)** — Multi-layer PCB/PCBA prototyping and CNC 6061 aluminum enclosures.
+- **[ThirdReality](https://www.3reality.com)** — Zigbee/Matter vibration (`3RVS01031Z`), motion, and night-pathway sensors for camera-free assistive living.
+- **[WAGO](https://www.wago.com)** (`221 + Gelbox IPX8` & `2060` SMD terminals), **[Coilcraft](https://www.coilcraft.com)** (`XAL4020-222MEC` shielded power inductors), and **[Samtec](https://www.samtec.com)** (`TSW-110-07-G-S` interconnects).
+- **[Heltec Automation](https://heltec.org)** (`Mesh Node T114 V2.0` & `Vision Master E213`) and **[Volla Systeme](https://volla.online)** ([`github.com/hellovolla`](https://github.com/hellovolla) — `Volla OS` & `Volla Supportive Intelligence`).
+- **[LiveKit](https://livekit.io)** (Realtime WebRTC/SIP voice infrastructure), **[Composio](https://composio.dev)** (Agentic MCP integrations), and **[JetBrains](https://www.jetbrains.com/?from=TinkeringDao)** (CLion, RustRover, PyCharm).
+
 See [`LEGAL.md`](LEGAL.md) for statutory interoperability, trademark nominative fair use, non-commercial FOSS, and German statutory notices.
