@@ -1,4 +1,20 @@
-# TinkeringDao
+<div align="center">
+  <a href="https://tinkeringdao.dev">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/tinkeringdao-lockup-dark.png">
+      <source media="(prefers-color-scheme: light)" srcset="assets/tinkeringdao-lockup-light.png">
+      <img alt="TinkeringDao Labs" src="assets/tinkeringdao-lockup-dark.png" width="760">
+    </picture>
+  </a>
+  <p>
+    <a href="https://tinkeringdao.dev">tinkeringdao.dev</a> &middot;
+    <a href="https://tinkeringdao.dev/log/">Field Journal</a> &middot;
+    <a href="https://tinkeringdao.dev/brand/">Brand Kit</a> &middot;
+    <a href="mailto:hello@tinkeringdao.dev">hello@tinkeringdao.dev</a>
+  </p>
+</div>
+
+---
 
 Systems engineering across Sub-GHz LoRa mesh firmware, Android/macOS hardware-protocol interoperability, robotics, and on-device speech/ML inference. Most projects here come from fixing practical gaps in hardware I use daily, from bare-metal/RTOS power management on constrained radios to clean-room macOS drivers and offline mobile apps without cloud dependencies. Code is published as independent, non-commercial open source.
 
