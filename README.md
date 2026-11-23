@@ -16,7 +16,7 @@
 
 ---
 
-Systems engineering across Sub-GHz LoRa mesh firmware, Android/macOS hardware-protocol interoperability, robotics, and on-device speech/ML inference. Most projects here come from fixing practical gaps in hardware I use daily, from bare-metal/RTOS power management on constrained radios to clean-room macOS drivers and offline mobile apps without cloud dependencies. Code is published as independent, non-commercial open source.
+TinkeringDao Labs researches and engineers sovereign physical-AI and edge infrastructure from silicon up: quantized on-device speech and vision runtimes (`llama.cpp`, `sherpa-onnx`, `IndicTrans2`, `BioCLIP-2`), fail-closed robotics fault-latch controllers, sub-zero solar `868 MHz` LoRa mesh and `MPTCP` LEO/5G multi-WAN networks, `PostGIS` agro-ecological digital twins, ambient Color E-Ink framebuffers, and statutory clean-room hardware drivers (`IOKit` DisplayPort AUX, `QCC5181` DSP). Built and instrument-verified on live testbeds in Bavaria, Germany with zero cloud lock-in.
 
 ## Public Repositories
 
