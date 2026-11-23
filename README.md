@@ -16,7 +16,7 @@
 
 ---
 
-TinkeringDao Labs researches and engineers sovereign physical-AI and edge infrastructure from silicon up: quantized on-device speech and vision runtimes (`llama.cpp`, `sherpa-onnx`, `IndicTrans2`, `BioCLIP-2`), fail-closed robotics fault-latch controllers, sub-zero solar `868 MHz` LoRa mesh and `MPTCP` LEO/5G multi-WAN networks, `PostGIS` agro-ecological digital twins, ambient Color E-Ink framebuffers, and statutory clean-room hardware drivers (`IOKit` DisplayPort AUX, `QCC5181` DSP). Built and instrument-verified on live testbeds in Bavaria, Germany with zero cloud lock-in.
+TinkeringDao Labs builds local-first software, firmware, and electronics where intelligence meets physical hardware—from on-device speech and vision models (`llama.cpp`, `sherpa-onnx`, `IndicTrans2`, `BioCLIP-2`), solar `868 MHz` LoRa meshes, and `MPTCP` multi-WAN networking to robotics safety latches (`Reachy` / `ROS 2`), Color E-Ink framebuffers, and clean-room device drivers (`IOKit` DisplayPort AUX, `QCC5181` DSP). Measured on real benches in Bavaria, Germany and published as open source.
 
 ## Public Repositories
 
